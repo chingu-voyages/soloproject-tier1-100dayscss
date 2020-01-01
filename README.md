@@ -48,7 +48,7 @@ Cloning means to create a web page with a layout as identical as possible to the
 
 **Other** 
 
-- [ ] Your repo needs to have a robust README.md (see [Keys to a Well-Written Readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d))
+- [ ] Your repo needs to have a robust `README.md` (see [Keys to a Well-Written Readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d))
 - [ ] Make sure that there are no errors in the developer console before submitting
 - [ ] Deploy your website
 
