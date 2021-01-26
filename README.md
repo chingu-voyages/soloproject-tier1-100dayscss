@@ -6,6 +6,19 @@ In this project, you will create a simplified version of the 100 Days of CSS **d
 
 You are only creating *one* unique image or animation that will be shown **TWICE** on the clone page. See the original landing page for inspiration.
 
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
+
 ## Instructions
 
 For this project you MUST use **vanilla** (plain) HTML/CSS and JavaScript. You are encouraged to use CSS grid, flexbox, media queries, a naming system like BEM, semantic HTML tags, or other modern techniques. You may not use frameworks or libraries such as Bootstrap.
