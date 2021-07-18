@@ -47,7 +47,7 @@ Cloning means to create a web page with a layout as identical as possible to the
      - [ ] Have two embeds of *single* the codepen you created on the page using this link's [instructutions](https://codepen.io/embeds)
  
  **Style**
-- [ ] Since the goal of this project is to create a clone of the Initab page you will want to make sure that your app mimics the layout, fonts, color scheme, and visual elements in the original Initb app. Because it is a clone you may not change the style, even though it may run counter to your personal preferences.
+- [ ] Since the goal of this project is to create a clone of the 100 Days of CSS page you will want to make sure that your app mimics the layout, fonts, color scheme, and visual elements in the original app. Because it is a clone you may not change the style, even though it may run counter to your personal preferences.
 - [ ] What will you use for your layout: floats, flexbox or grid?
 - [ ] Once you decide, start by creating the structure of the webpage and then add the styles (e.g. colors, fonts).
 - [ ] You should use native CSS or CSS preprocessors like SASS or Stylus. You may not use a CSS library like Bootstrap.
