@@ -29,7 +29,7 @@ For this project you MUST use **vanilla** (plain) HTML/CSS and JavaScript. You a
 
 For this specific clone, you are *only* expected to replicate the **desktop** version of the site and you are NOT expected in any way to make the landing page responsive.
 
-General instructions for all Solo Projects can also be found in the [Chingu Library](https://docs.chingu.io/voyage/soloproj/howwork).
+General instructions for all Solo Projects can also be found in the [Chingu Handbook - Solo Project Guide](docs/guides/soloproject/soloproject.md).
 
 ## Cloning A Website 
 
